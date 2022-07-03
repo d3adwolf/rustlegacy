@@ -1,9 +1,7 @@
-So, I'm writing the very first version of my README, specifically to prevent blocking my GitHub repository.
+Greetings everyone,<br>
 
-**So, first:** I do not claim that all files are 100% mine and it was only me who created them. No, more often I take ready-made projects from GitHub and "bring them to mind".
+This repository stores the old version of the game Rust, called Legacy, as well as the old version of the game to create a server.<br>
 
-**Second:** Many "my" projects will be stored on GitHub, and not on some Google Drive because GitHub is a guarantee of the reliability of files and their availability. Time goes by, some authors abandon their projects (repositories), sometimes even delete them, so someone like me tries to save their works and distribute them to certain target communities, that is, those who will be interested.
+The server version uses licensed DLL files of the game to enable support of the pirated version: transfer files `Steam.dll`, `steam_api.dll` and `ValveAPI.dll` from the pirated version to the server folder. <br>
 
-**And third:** If I wrote something wrong somewhere or chose the wrong license for the repository, before throwing the report at me, take it and write to me by mail, please. I always answer during the day and for any conflicts, I am always ready to resolve peacefully and come to a compromise.
-
-Others this README, I hope you understand that I, as a keeper of history, nostalgia, and valuable bytes, and not a stupid schoolboy who decided to use GitHub as a file exchange. I want to develop and help develop different gaming and non-gaming communities, I hope you have the same good goals.
+All the necessary files can be found in [Releases](https://github.com/d3adwolf/rustlegacy/releases) and on the [website](https://d3adwolf.github.io/rustlegacy/), if you have any questions please contact [issues](https://github.com/d3adwolf/rustlegacy/issues), closed questions and problems on the [second tab in issues](https://github.com/d3adwolf/rustlegacy/issues?q=is%3Aissue+is%3Aclosed).
